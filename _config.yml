@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Ryan Ellison's Website"
+title                    : "Website for University of York Kendo Club"
 title_separator          : "-"
-name                     : &name "Ryan Ellison"
-description              : &description "Ryan Ellison's Website"
-url                      : https://ryanj-ellison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "University of York Kendo Club"
+description              : &description "Website for University of York Kendo Club"
+url                      : https://UniOfYorkKendo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -77,15 +77,13 @@ analytics:
   google:
     tracking_id          :
     
-ga_tracking: G-X7P50197W6
-ga_tracking_anonymize_ip: true
 
 
 # Site Author
 author:
-  name             : "Ryan Ellison"
-  avatar           : "Picture_Me.jpg"
-  bio              : "Welcome to my website!"
+  name             : "University of York Kendo"
+  avatar           : "YorkKendoLogo.jpg"
+  bio              : "Welcome to our website!"
   location         : "York, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -105,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ryan-ellison-b5b7b4159/"
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@_Ryan_Ellison"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -3,20 +3,20 @@ main:
   - title: "Home"
     url: /Home/
 
-  - title: "Research"
-    url: /Research/    
+  - title: "What Is Kendo?"
+    url: /WhatIsKendo/    
 
-  - title: "PhD Blog"
-    url: /PhD Blog/    
+  - title: "Membership"
+    url: /Membership/    
     
-  - title: "Outreach"
-    url: /Outreach/
+  - title: "Practice Times"
+    url: /PracticeTimes/
         
-  - title: "Extracurricular"
-    url: /Extracuricular/
+  - title: "News"
+    url: /News/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Contact"
+    url: /Contact/
     
   #- title: "Guide"
   #  url: /markdown/

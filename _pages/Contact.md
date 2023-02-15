@@ -7,5 +7,6 @@ redirect_from:
   - 
 ---
 
-## Hi, welcome to our website!
-This website is currently a work in progress.
+If you would like to get in touch, then please email us at kendo@yusu.org.
+
+Alternatively, you can check out our [Facebook page](https://www.facebook.com/groups/20389861477/) or [Instagram](https://www.instagram.com/uoy_kendo/?hl=en-gb).

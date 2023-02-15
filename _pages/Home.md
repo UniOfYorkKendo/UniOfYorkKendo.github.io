@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hi, welcome to our website!
-This website is currently a work in progress.
+This website is currently a work in progress. Please fell free to browse the site for information on Kendo, our practice times, or how to contact us.
 
 
 

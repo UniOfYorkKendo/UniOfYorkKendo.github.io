@@ -1,5 +1,5 @@
 ---
-permalink: /Membership/
+permalink: /Membership/ 
 title: "Membership"
 excerpt: "About me"
 author_profile: true

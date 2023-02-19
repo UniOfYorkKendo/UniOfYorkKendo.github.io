@@ -14,7 +14,7 @@ Could link to the YUSU page where people buy membership
 
 -- Practice Times --
 --------------------
-
+Practice time information goes here. I.e. times and locations of the practices. Also link to york city club site.
 
 -- News -- 
 ----------

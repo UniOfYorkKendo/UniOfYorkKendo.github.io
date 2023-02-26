@@ -18,5 +18,5 @@ main:
   - title: "Contact"
     url: /Contact/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Resources"
+    url: /Resources/

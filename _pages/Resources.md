@@ -26,4 +26,5 @@ Below are some books and websites that are a great source of information about k
 **Books**
 
 Kendo: Approaches for all Levels - Sotaro Honda
+
 Kendo: The Definitive Guide - Hiroshi Ozawa

@@ -32,12 +32,18 @@ This will be a page for contacting us. Putting a contact form on here is a bette
 ->Add brief description of kendo - [Done]
 ->Add contact info - [Done]
 ->Add practice times info - [Done]
-->Fix membership page
-    ->Add link to YUSU purchase page
+->Fix membership page - [Done]
+    ->Add link to YUSU purchase page [Done]
 ->Add in news/blog posts
     ->Congrats to me and muiz for shodan and ikkyu
     ->Congrats to muiz and gabby for shodan and ikkyu
     ->Uni taikai roundup post
     ->Visit from andy fisher sensei
     ->Toshiro seminar
-->Add a kendo resources page
+->Add a kendo resources page - [Done]
+    ->Books - [Done]
+    ->Youtube - [Done]
+    ->Websites - [Done]
+->Change landing page to have more kendo text for search engine optimisation - [Done]
+->Add photo from last uni taikai to home page
+->Download photos of muiz gabby grading and uni taikai - [Done]

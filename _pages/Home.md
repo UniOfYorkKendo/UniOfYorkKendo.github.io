@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, welcome to our website!
-This website is currently a work in progress. Please fell free to browse the site for information on Kendo, our practice times, or how to contact us.
+Welcome to the University of York Kendo Club! We are a student Kendo club based at the University of York. Have a look around our webiste to find out more about what Kendo is and how to get involved!
 
 
 

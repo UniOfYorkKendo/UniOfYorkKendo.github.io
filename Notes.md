@@ -24,3 +24,20 @@ Structure this like the blog page on my site. Each blog item can be a piece of n
 -------------
 This will be a page for contacting us. Putting a contact form on here is a better idea than listing the email address.
 ->Look up some code to enable me to do this
+
+
+
+-- To-do --
+-----------
+->Add brief description of kendo - [Done]
+->Add contact info - [Done]
+->Add practice times info - [Done]
+->Fix membership page
+    ->Add link to YUSU purchase page
+->Add in news/blog posts
+    ->Congrats to me and muiz for shodan and ikkyu
+    ->Congrats to muiz and gabby for shodan and ikkyu
+    ->Uni taikai roundup post
+    ->Visit from andy fisher sensei
+    ->Toshiro seminar
+->Add a kendo resources page

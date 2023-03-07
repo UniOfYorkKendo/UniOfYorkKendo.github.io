@@ -43,7 +43,8 @@ This will be a page for contacting us. Putting a contact form on here is a bette
 ->Add a kendo resources page - [Done]
     ->Books - [Done]
     ->Youtube - [Done]
-    ->Websites - [Done]
+    ->Websites e.g. kenshi247, kingston kendo - 
 ->Change landing page to have more kendo text for search engine optimisation - [Done]
 ->Add photo from last uni taikai to home page
 ->Download photos of muiz gabby grading and uni taikai - [Done]
+->Set up as its own property and change analytics code - [Done]

@@ -1,6 +1,6 @@
 ---
 title: 'University Taikai 2023 - Kent'
-date: 2199-01-01
+date: 2023-02-06
 permalink: 
 tags:
   - 

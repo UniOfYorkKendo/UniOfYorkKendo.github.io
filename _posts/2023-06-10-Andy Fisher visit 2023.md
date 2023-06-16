@@ -5,7 +5,6 @@ permalink:
 tags:
   - 
 ---
-Visit was 10th June (06) 2023
 
 This weekend we were fortunate enough to be visited by Andy Fisher Sensei (6th Dan), CEO of [Kendostar](https://kendostar.com/) [link] kendo equipment company and current coach of the GB national kendo team. Fisher Sensei joined our practice session and gave us many great insights into how we could improve our kendo. Some of us (myself included) were also able to do jigeiko with Fisher sensei, which was a great experience! We were also joined by Gareth Mason Sensei from the York City Kendo Club, who also provided an example of great kendo.
 

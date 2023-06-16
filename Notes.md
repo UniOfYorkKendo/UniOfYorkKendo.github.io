@@ -35,11 +35,11 @@ This will be a page for contacting us. Putting a contact form on here is a bette
 ->Fix membership page - [Done]
     ->Add link to YUSU purchase page [Done]
 ->Add in news/blog posts
-    ->Congrats to me and muiz for shodan and ikkyu
-    ->Congrats to muiz and gabby for shodan and ikkyu
+    ->Congrats to me and muiz for shodan and ikkyu [Done]
+    ->Congrats to muiz and gabby for shodan and ikkyu [Done]
     ->Uni taikai roundup post
-    ->Visit from andy fisher sensei
-    ->Toshiro seminar
+    ->Visit from andy fisher sensei [Done]
+    ->Tashiro seminar [DOne]
 ->Add a kendo resources page - [Done]
     ->Books - [Done]
     ->Youtube - [Done]

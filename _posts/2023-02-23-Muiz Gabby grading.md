@@ -7,4 +7,11 @@ tags:
 ---
 
 Congratulations to Uni of York Club member Muizzuddin (Muiz) Ismail and club alumnus Gabriele (Gabby) Vilkaite! Muiz passed his Shodan and Gabby passed her Ikkyu exam. Once again, congratulations!
+
+
+
+
+
+
+
 ![Alt text](../files/Muiz_Grabby_Grading.jpg)

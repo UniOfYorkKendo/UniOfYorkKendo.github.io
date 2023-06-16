@@ -13,3 +13,4 @@ Welcome to the University of York Kendo Club! We are a student Kendo club based 
 
 
 
+![Alt text](../files/Uni_Taikai_2023_full.jpg)

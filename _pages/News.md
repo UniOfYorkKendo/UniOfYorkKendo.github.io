@@ -8,8 +8,6 @@ redirect_from:
 
 ---
 
-## Hi, welcome to our website!
-This website is currently a work in progress.
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}

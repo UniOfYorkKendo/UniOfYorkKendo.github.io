@@ -7,9 +7,9 @@ redirect_from:
   - 
 ---
 
-Our current practice times for 2022-23 are as follows:
+Our current practice times for 2023-24 are as follows:
 
-Tuesday 15:00 - 17:00
+Tuesday 16:00 - 17:00
 
 Saturday 17:00-19:00
 

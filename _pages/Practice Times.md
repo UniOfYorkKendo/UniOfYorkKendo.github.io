@@ -7,11 +7,11 @@ redirect_from:
   - 
 ---
 
-Our current practice times for 2023-24 are as follows:
+Our current practice times for 2024-25 are as follows:
 
-Tuesday 16:00 - 17:00
+Wednesdays 20:00 - 22:00
 
-Saturday 17:00 - 19:00
+Sundays 13:00 - 15:00
 
 Both take place at the Main Sports Hall on Campus West.
 

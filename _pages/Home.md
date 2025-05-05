@@ -11,6 +11,6 @@ redirect_from:
 Welcome to the University of York Kendo Club! We are a student Kendo club based at the University of York. Have a look around our webiste to find out more about what Kendo is and how to get involved!
 
 
-
+HELLLO!!
 
 ![Alt text](../files/Uni_Taikai_2023_full.jpg)
